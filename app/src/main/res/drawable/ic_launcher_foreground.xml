@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central golden radial glow halo -->
+    <path
+        android:fillColor="#33F59E0B"
+        android:pathData="M 54,34 A 20,20 0 1 1 53.9,34" />
+    
+    <!-- Rising Flame / Wisdom Torch Top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,26 C57,32 61,35 60,40 C59,44 55,47 54,47 C53,47 49,44 48,40 C47,35 51,32 54,26 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,30 C56,34 58,36 57,39 C56.5,41 55,43 54,43 C53,43 51.5,41 51,39 C50,36 52,34 54,30 Z" />
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M54,34 C55,36 55.5,38 55,40 C54.7,41 54.3,42 54,42 C53.7,42 53.3,41 53,40 C52.5,38 53,36 54,34 Z" />
+
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M52,48 L32,52 C30.5,52.3 29,53.8 29,55.5 L29,73 C29,74.5 30.5,75.8 32,75.5 L52,71 Z" />
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,48 L76,52 C77.5,52.3 79,53.8 79,55.5 L79,73 C79,74.5 77.5,75.8 76,75.5 L56,71 Z" />
+        
+    <!-- Book Spine & Binding Base -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M52,71 L52,78 C52,79 53,80 54,80 C55,80 56,79 56,78 L56,71 Z" />
+        
+    <!-- Book Left Border & Page Lines -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M33,57 L49,54 L49,55.5 L33,58.5 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M33,62 L49,59 L49,60.5 L33,63.5 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M33,67 L49,64 L49,65.5 L33,68.5 Z" />
+
+    <!-- Book Right Border & Page Lines -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M59,54 L75,57 L75,58.5 L59,55.5 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M59,59 L75,62 L75,63.5 L59,60.5 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M59,64 L75,67 L75,68.5 L59,65.5 Z" />
+
+    <!-- Golden Base Bookmark Ribbon -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M52.5,71 L55.5,71 L55.5,82 L54,80.5 L52.5,82 Z" />
+
+    <!-- Ashoka/Star Pinnacle Accent -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,21 L55.2,23.5 L58,24 L56,26 L56.5,28.8 L54,27.5 L51.5,28.8 L52,26 L50,24 L52.8,23.5 Z" />
+</vector>

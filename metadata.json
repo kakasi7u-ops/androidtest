@@ -1,0 +1,6 @@
+{
+  "name": "CivilCurrents",
+  "description": "Daily Current Affairs, Prelims & Mains notes, and Quizzes for UPSC, SSC, and State PCS aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
